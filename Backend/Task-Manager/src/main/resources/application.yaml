@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://digpal:root123@task-manage.qq7rlnp.mongodb.net/task-manage
